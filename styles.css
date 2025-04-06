@@ -1,6 +1,26 @@
-body {
-    margin: 0;
-    font-family: system-ui, sans-serif;
-    color: blue;
-    background-color: rgb(244, 246, 247);
+h1 {
+    color:rgb(134, 119, 201);
+    font-size: large;
+    text-align: center;
   }
+  header{
+    color: blueviolet;
+    font-size: xx-large;
+    text-align: center;
+  }
+  p  {
+    color: dodgerblue;
+    font-style: normal;
+    text-align: center;
+  }
+  h2 {
+    color: darkslategrey;
+    font-size: xx-large;
+    text-align: center;
+    font-style: unset;
+  }
+
+h3 {color: #750c0c;
+    font-size: smaller;    
+    text-align: center;
+}
